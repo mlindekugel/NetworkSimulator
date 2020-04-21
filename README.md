@@ -1,5 +1,17 @@
 We're all teachers and tight for money; writing this program took a considerable amount of time and effort. If you find it useful, please consider sending a donation through PayPal to mlinde@hotmail.com . The link to do so is here: https://www.paypal.com/myaccount/transfer/homepage
 
+To compile: 
+javac *.java
+
+To run: 
+java NetworkSimulator
+
+To create a jar file to distribute to students:
+jar cfm NetworkSimulator.jar MANIFEST.MF *.class
+
+You could distribute the jar file to students if they have computers with Java. To run the program, they would type:
+java -jar NetworkSimulator.jar
+
 # NetworkSimulator
 Network Simulation is centered on learning goals of PLTW CSP 2.1.1 activity
 
