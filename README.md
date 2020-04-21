@@ -15,7 +15,7 @@ You could distribute the jar file to students if they have computers with Java. 
 java -jar NetworkSimulator.jar
 
 # NetworkSimulator
-Network Simulation is centered on learning goals of PLTW CSP 2.1.1 activity
+NetworkSimulator is centered on learning goals of PLTW CSP 2.1.1 activity
 
 This simulation allows the user to specify several "machines" and draw connections between them. Messages are then assigned to be sent from one machine to another. The user converts the messages to packets, then steps them through the network one machine at a time by clicking the "Route Packets" button. Parameters that can be controlled include the time to live for each packet and the buffer size of all machines.
 
