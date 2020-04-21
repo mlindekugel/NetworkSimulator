@@ -1,5 +1,7 @@
+# Support
 We're all teachers and tight for money; writing this program took a considerable amount of time and effort. If you find it useful, please consider sending a donation through PayPal to mlinde@hotmail.com . The link to do so is here: https://www.paypal.com/myaccount/transfer/homepage
 
+# Compilation and running
 To compile: 
 javac *.java
 
